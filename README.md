@@ -1,7 +1,9 @@
 # CCTVCraft 5
-
 ![CCTVCraft Logo](https://github.com/northwesttrees-gaming/cctvcraft/blob/main/pages/logo/cctvcraft_logo.png)
 
+## Navigation
+[![Wiki](https://github.com/northwesttrees-gaming/cctvcraft/blob/main/pages/buttons/wiki_button.png)](https://github.com/northwesttrees-gaming/cctvcraft/wiki)
+[![Bug](https://github.com/northwesttrees-gaming/cctvcraft/blob/main/pages/buttons/bug_button.png)](https://github.com/northwesttrees-gaming/cctvcraft/issues/new)
 ## About the mod
 CCTVCraft 5 is a complete overhaul of the original CCTVCraft mod, now powered by Forge/NeoForge energy for improved compatibility and loaded with new, thrilling gameplay mechanics. Imagine taking your security systems and remote viewing grids to a whole new level with fully controllable drones equipped with AI support, giving you unprecedented surveillance capabilities. Enhanced cameras and a range of customizable security devices are designed to seamlessly blend with the game’s aesthetic, ensuring they look right at home in your builds. CCTVCraft 5 is built for every type of player experience, supporting multiplayer, single-player, and LAN game modes. With these exciting updates, CCTVCraft 5 doesn’t just refine the original mod but expands it, adding innovative tools and immersive mechanics for a dynamic, high-tech security adventure in your game. Dive into the future of Minecraft security with CCTVCraft 5!
 
