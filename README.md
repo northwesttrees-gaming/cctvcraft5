@@ -1,20 +1,16 @@
 # CCTVCraft 5
-CCTVCraft 5 is a comprehensive remake of the original CCTVCraft mod, now supporting Forge/NeoForge energy for enhanced compatibility and bringing new gameplay mechanics to elevate your remote viewing grids and security systems. Key features include:
 
-- **Entity Drones:**  
- These drones will offer both remote control and AI-based support to assist with various tasks, adding versatility to gameplay.
-- **Reworked Blocks:**  
-  Existing blocks have been redesigned to better align with the base game while introducing additional features and improvements as development progresses.
-- **Remote Viewing and Security:**  
-  CCTVCraft 5 enables remote viewing through cameras and incorporates robust security mechanics, ideal for single-player, LAN, and multiplayer worlds.
-  
-With these updates, CCTVCraft 5 enhances the original mod’s functionality and expands on it with new tools and mechanics for an immersive security experience.
+![CCTVCraft Logo](https://github.com/northwesttrees-gaming/cctvcraft/blob/main/pages/logo/cctvcraft_logo.png)
 
-# License
-- Owned by NorthWestTrees Gaming
-- All rights reserved
+## About the mod
+CCTVCraft 5 is a complete overhaul of the original CCTVCraft mod, now powered by Forge/NeoForge energy for improved compatibility and loaded with new, thrilling gameplay mechanics. Imagine taking your security systems and remote viewing grids to a whole new level with fully controllable drones equipped with AI support, giving you unprecedented surveillance capabilities. Enhanced cameras and a range of customizable security devices are designed to seamlessly blend with the game’s aesthetic, ensuring they look right at home in your builds. CCTVCraft 5 is built for every type of player experience, supporting multiplayer, single-player, and LAN game modes. With these exciting updates, CCTVCraft 5 doesn’t just refine the original mod but expands it, adding innovative tools and immersive mechanics for a dynamic, high-tech security adventure in your game. Dive into the future of Minecraft security with CCTVCraft 5!
 
-| Permission name | Permission | Credits required |
+## License & Permissions
+This is an original mod that I made. The modification and its assets are created and owned by NorthWestTrees Gaming also known as Kieran Martin. 
+The modification and its assets rights are reserved by the sole owner of the modification and may be subject to change. 
+If you have legal questions you may reach out via email ``northwesttreesgaming@gmail.com``.
+
+| Permission title | Permission | Requires credits |
 | --- | --- | --- |
 | Use in modpacks | ✔ | ✔ |
 | Addons creation | ✔ | ✔ |
@@ -22,7 +18,13 @@ With these updates, CCTVCraft 5 enhances the original mod’s functionality and 
 | Monitizing YouTube videos | ✔ | ✔ |
 | Using the mod for Multiplayer | ✔ | ✔ |
 | Limiting player access in-game | ❌ | / |
-| Copying the mod or it's assets | ❌ | / |
-| Reposting or distribution of the mod or it's assets | ❌ | / |
-| Monitization or proffit from the mod or it's assets | ❌ | / |
+| Copying the mod or its assets | ❌ | / |
+| Reposting or distribution of the mod or its assets | ❌ | / |
+| Monitization or profit from the mod or its assets | ❌ | / |
 
+## Supported Versions
+### Forge
+- 1.20.1
+### NeoForge
+- 1.21.1
+- Future versions
