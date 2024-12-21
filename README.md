@@ -18,12 +18,12 @@ If you have legal questions you may reach out via email ``northwesttreesgaming@g
 | Use in modpacks | ✔ | ✔ |
 | Addons creation | ✔ | ✔ |
 | Making YouTube videos | ✔ | ❌ |
-| Monitizing YouTube videos | ✔ | ✔ |
+| Monetizing YouTube videos | ✔ | ✔ |
 | Using the mod for Multiplayer | ✔ | ✔ |
 | Limiting player access in-game | ❌ | / |
 | Copying the mod or its assets | ❌ | / |
 | Reposting or distribution of the mod or its assets | ❌ | / |
-| Monitization or profit from the mod or its assets | ❌ | / |
+| Monetization or profit from the mod or its assets | ❌ | / |
 
 ## Supported Versions
 ### Forge
