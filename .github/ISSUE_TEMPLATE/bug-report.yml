@@ -6,7 +6,7 @@ body:
 - type: textarea
   attributes:
     label: Issue Description
-    description: Describe the issue, what happens, and what steps we can take to trigger the issue.
+    description: Describe the issue what happens and what steps we can take to trigger the issue.
     placeholder: Your issue description.
     required: true
 - type: dropdown
