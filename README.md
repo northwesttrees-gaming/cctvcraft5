@@ -32,7 +32,7 @@ If you have legal questions you may reach out via email ``northwesttreesgaming@g
 
 ## Supported Versions
 ### Forge
-- CCTVCraft 5 (1.0.0) / Forge (1.20.1)
+- CCTVCraft 5 ``1.0.0`` / Forge ``1.20.1``
 ### NeoForge
-- CCTVCraft 5 (1.1.0) / NeoForge (1.21.1)
+- CCTVCraft 5 ``1.1.0`` / NeoForge ``1.21.1``
 - Future versions
