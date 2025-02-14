@@ -1,0 +1,33 @@
+name: Bug Report
+description: Report a bug to the developer.
+title: "[Bug] <title>"
+labels: [New, Bug]
+body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue, what happens, and what steps we can take to trigger the issue.
+    placeholder: Your issue description.
+    required: true
+- type: dropdown
+  attributes:
+    label: Modding AIP and Version
+    options:
+      - 1.21.1 - NeoForge
+      - 1.20.1 - Minecraft Forge
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: CCTVCraft 5 Build
+    options:
+      - 1.0.0
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Crash Report
+    description: Provide a crash file from your game or server.
+    placeholder: Only required if there was a crash.
+  validations:
+    required: false
