@@ -8,6 +8,7 @@ body:
     label: Issue Description
     description: Describe the issue what happens and what steps we can take to trigger the issue.
     placeholder: Your issue description.
+  validations:
     required: true
 - type: dropdown
   attributes:
